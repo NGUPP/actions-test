@@ -1,4 +1,4 @@
-name: SLSA use
+name: bulid w/ SLSA provenance
 on:
  workflow_dispatch:
 
