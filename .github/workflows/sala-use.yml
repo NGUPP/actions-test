@@ -10,6 +10,6 @@ jobs:
       id-token: write
       contents: read
     
-    uses: slsa-framework/slsa-github-generator-go/.github/workflows/builder.yml@main
+    uses: slsa-framework/slsa-github-generator/blob/main/.github/workflows/builder_go_slsa3.yml@main
     with:
       go-version: 1.17
