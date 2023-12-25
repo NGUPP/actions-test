@@ -1,4 +1,4 @@
-name: SLSA provenance
+name: SLSA use example
 on: workflow_dispatch
 
 
